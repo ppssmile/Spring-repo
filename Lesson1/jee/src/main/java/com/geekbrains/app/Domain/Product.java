@@ -1,4 +1,4 @@
-package com.geekbrains.app;
+package com.geekbrains.app.Domain;
 
 
 public class Product {
